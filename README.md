@@ -94,10 +94,6 @@ Este projeto demonstra um pipeline completo para coleta, processamento e anális
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
 
-## Licença
-
-Este projeto é licenciado sob a licença MIT.
-
 ## Conecte-se comigo!
 
-Se você se interessou por este projeto e deseja acompanhar meu trabalho, convido você a visitar meus perfis no [Github](https://github.com/alexmdebarros), [LinkedIn](https://www.linkedin.com/in/alexmdebarros) e no [Kaggle](https://www.kaggle.com/alexmartinsdebarros). Lá, compartilho meus projetos, aprendizados e insights sobre análise de dados e tecnologia.
+Se você se interessou por este projeto e deseja acompanhar meu trabalho, convido você a visitar meus perfis no [LinkedIn](https://www.linkedin.com/in/alexmdebarros) e no [Kaggle](https://www.kaggle.com/alexmartinsdebarros). Lá, compartilho meus projetos, aprendizados e insights sobre análise de dados e tecnologia.
